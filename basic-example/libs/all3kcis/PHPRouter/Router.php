@@ -105,7 +105,7 @@ class Router {
 	}
 
 	/**
-	 * Retourne routes
+	 * Return routes, debug function
 	 * 
 	 * @return array
 	 */
